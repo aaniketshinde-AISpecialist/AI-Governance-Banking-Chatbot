@@ -35,7 +35,7 @@ NIST AI RMF · Third-Party Risk · GRC · AI Incident Response ·
 Residual Risk Analysis · Executive Risk Communication
 
 ## Key Governance Statements
-> "AI risk cannot be eliminated — it must be continuously governed."
+> "AI risk can't be eliminated — it must be continuously governed."
 
 > "Compensating controls reduce risk but do not replace accountability."
 
